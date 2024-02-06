@@ -25,14 +25,15 @@ h1 {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color:#F05F44;
+  background-color: #db806f;
+  border-color:#db806f;
+  border-width: 0px;
 }
 
 .btn-primary:hover {
   background-color: #EE4B08;
   border-color:#EE4B08;
-  border-width: 4px;
+  border-width: 0px;
 }
 
 .btn-xl {
